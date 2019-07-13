@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/AdityaTelange/rpi-bluetooth-audio-player.svg)](http://hits.dwyl.io/AdityaTelange/rpi-bluetooth-audio-player)
+
 # rpi-bluetooth-audio-player
 Bluetooth audio streamer for any audio device using a Raspberry Pi based on [balena-sound](https://github.com/balena-io-projects/balena-sound/)
 
