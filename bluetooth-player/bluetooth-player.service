@@ -1,7 +1,6 @@
 [Unit]
 Description=bluetooth music player
-Requisite=dietpi-ramdisk.service
-After=dietpi-boot.service network-online.target network.target
+After=network-online.target network.target
 StartLimitIntervalSec=0
 
 [Service]
